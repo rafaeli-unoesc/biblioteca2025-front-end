@@ -47,8 +47,8 @@ export default function Menu() {
                                         </a>
                                     </li>
                                     <li>
-                                        <a className="dropdown-item" href="#">
-                                            Another action
+                                        <a className="dropdown-item" href="/listaautor">
+                                            Autores
                                         </a>
                                     </li>
                                     <li>
